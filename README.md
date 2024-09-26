@@ -32,26 +32,24 @@ This project is a collaborative document editing application inspired by Google 
 ### Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/yourusername/google-docs-clone.git
    cd google-docs-clone
    ```
    
 2. Install dependencies for both frontend and backend:
-
-  ```bash
-  npm install
-  cd client
-  npm install
-  ```
+    ```bash
+    npm install
+    cd client
+    npm install
+    ```
 
 3. Start the server:
-  ```bash
-  Copy code
-  cd ..
-  npm start
-  ```
+    ```bash
+    Copy code
+    cd ..
+    npm start
+    ```
 4. Open your browser and navigate to http://localhost:3000 to view the application.
 
 ## Usage
